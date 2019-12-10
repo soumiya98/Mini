@@ -1,0 +1,4 @@
+{"_id":{"$oid":"5de0fdc2a96e8732e02b9ced"},"email":"soumiya.rao.t@gmail.com","date":31,"time":"morn","arr":["00","01","02"],"mov":"3","check":true}
+{"_id":{"$oid":"5de0fe4ca96e8732e02b9cee"},"email":"soumiya.rao.t@gmail.com","date":2,"time":"eve","arr":["012","013","014","015"],"mov":"4","check":true}
+{"_id":{"$oid":"5de1403fb17b31381cd4fa8a"},"email":"soumiya.rao.t@gmail.com","date":1,"time":"morn","arr":["111","110","112"],"mov":"3","check":true}
+{"_id":{"$oid":"5de1430da0176024e86691b1"},"email":"soumiya.rao.t@gmail.com","date":2,"time":"morn","arr":["09","010","011"],"mov":"2","check":true}
